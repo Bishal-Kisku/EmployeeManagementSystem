@@ -22,3 +22,8 @@ Workflow:
   - Check for valid date entry.
   - Calculate Net salary.  
 - Display all the details for every employee.
+
+Limitations:
+- Temporary storage of databases
+- Runs on a single system
+- No network connection required
