@@ -16,9 +16,9 @@ Functional Requirements:
   - Show Employee Data
 
 Workflow:
-1. Accept the number of employees to enter into the record.
-2. For each employee:
-  1. Accept Employee Number, Name, Hire date, Basic salary.
-  2. Check for valid date entry.
-  3. Calculate Net salary.
-3. Display all the details for every employee.
+- Accept the number of employees to enter into the record.
+-  For each employee:
+  - Accept Employee Number, Name, Hire date, Basic salary.
+  -  Check for valid date entry.
+  -   Calculate Net salary.
+- Display all the details for every employee.
