@@ -17,11 +17,8 @@ Functional Requirements:
 
 Workflow:
 - Accept the number of employees to enter into the record.
--  For each employee:
+- For each employee:
   - Accept Employee Number, Name, Hire date, Basic salary.
   - Check for valid date entry.
-  -   Calculate Net salary.
-  -   
+  - Calculate Net salary.  
 - Display all the details for every employee.
-
-Conclusion:
