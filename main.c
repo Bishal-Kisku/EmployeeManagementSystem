@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 struct Employee {
+    // Structure declaration
     int employeeNo;
     char employeeName[20];
     float basicSalary;
